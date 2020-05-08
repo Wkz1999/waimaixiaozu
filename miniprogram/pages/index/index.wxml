@@ -1,0 +1,6 @@
+<image mode="widthFix"
+ src="team.jpg"></image>
+<view class="title">外卖小组!</view>
+<view class="subhead">我们小组的设计目标是一个外卖系统</view>
+<view class="text">这个系统将包括提交购买订单，选定送餐路线，观察骑手位置等功能</view>
+<button type='primary' bindtap="jp">李子元的个人介绍</button>
