@@ -9,6 +9,23 @@ Page({
   jp: function () {
     wx.navigateTo({ url: '/pages/lzy/lzy' })
   },
+  jpyla: function () {
+    wx.navigateTo({ url: '/pages/yla/yla' })
+  },
+  jp2: function () {
+    wx.navigateTo({ url: '/pages/lxt/lxt' })
+    /*
+    wx.cloud.callFunction({
+      name:'jump_lxt',
+      data:{},
+      success:function(res){
+        console.log(res.result)
+      },
+      fail:console.error
+    })
+    */
+  },
+
   /**
    * 生命周期函数--监听页面加载
    */

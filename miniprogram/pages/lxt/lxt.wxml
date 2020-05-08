@@ -1,10 +1,11 @@
-
+<!--miniprogram/pages/lxt/lxt.wxml-->
 <image mode="widthFix"
- src="cloud://waimaixiaozu-0oyhd.7761-waimaixiaozu-0oyhd-1302059778/liziyuan1.jpg"></image>
+ src="cloud://waimaixiaozu-0oyhd.7761-waimaixiaozu-0oyhd-1302059778/lxt.jpg"></image>
 
-<view class='user' wx:for="{{ne}}">
+<view class='lxt' wx:for="{{a}}">
     <view class="title">{{item.name}}</view>
     <view class="text">{{item.email}}</view>
     <view class="text">{{item.number}}</view>
     <view class="text">{{item.hobby}}</view>
+
 </view>

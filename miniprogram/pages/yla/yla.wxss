@@ -1,8 +1,6 @@
-Page {
-  text-align: center;
-}
 
 .title{
+  text-align: center;
   font-size: 30px;
   color: rgb(0, 0, 0);
   line-height: 2;
@@ -13,8 +11,9 @@ Page {
 
 
 .text{
+  text-align: center;
   font-size: 20px;
-  color: rgb(255, 0, 0);
+  color: rgb(0, 100, 200);
   line-height: 2;
   font-weight: bold;
   padding-bottom: 10px;
