@@ -2,6 +2,9 @@
   "pages": [
     "pages/index/index",
     "pages/lzy/lzy",
+
+    "pages/yla/yla",
+
     "pages/lxt/lxt"
   ],
   "window": {

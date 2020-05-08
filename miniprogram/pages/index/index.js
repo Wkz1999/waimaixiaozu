@@ -10,6 +10,12 @@ Page({
     wx.navigateTo({ url: '/pages/lzy/lzy' })
   },
 
+  jpyla: function () {
+    wx.navigateTo({ url: '/pages/yla/yla' })
+  },
+=======
+
+
   jp2: function () {
     wx.navigateTo({ url: '/pages/lxt/lxt' })
     /*
